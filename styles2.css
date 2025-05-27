@@ -1,0 +1,20 @@
+body {
+    background-color:darkolivegreen;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 1;
+    padding: 40px;
+}
+h1 {
+color: black;
+text-align: center;
+font-size: 5em;
+border: 0cqmax;
+}
+p {
+    color:midnightblue;
+    font-size: 4rem;
+    text-align: right;
+}
+div {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
